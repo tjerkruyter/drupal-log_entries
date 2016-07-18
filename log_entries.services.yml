@@ -1,0 +1,3 @@
+services:
+    log_entries.logger:
+        class: Drupal\log_entries\Logger\Logger
