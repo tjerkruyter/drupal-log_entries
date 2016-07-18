@@ -1,0 +1,10 @@
+name = Log entries
+description = Connect and log with logentries api
+core = 7.x
+package = TamTam
+php = 5.6
+
+
+files[] = log_entries.module
+files[] = src/logger/Lelogger.php
+files[] = src/logger/Logger.php
